@@ -1,4 +1,4 @@
-# VscodePlatense
+# VsTense
 Settings para dejar tu vscode con estilos de Club Atlético Platense.
 
 ## Instalar para todos los proyectos
