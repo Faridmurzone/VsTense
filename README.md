@@ -1,5 +1,5 @@
 # VsTense
-Settings para dejar tu vscode con estilos de Club Atlético Platense.
+Settings para dejar tu vscode con estilos del calamar
 
 ## Instalar para todos los proyectos
 Andá a File -> Preferences -> Settings -> Edita el settings.json colocando el objeto "workbench.colorCustomizations" de el settings.json
